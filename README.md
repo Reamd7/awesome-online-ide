@@ -2,21 +2,21 @@
 
 # Awesome Online IDE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome online implementations of Integrated Development Environments (IDE)
+> 一个精心策划的集成开发环境（IDE）在线实施清单。
 
-An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is a software application that provides comprehensive facilities to computer programmers for software development. This typically includes a text editor, syntax highlighting, file explorer, debugger, version control, and build/run/deploy options. Another defining feature of an IDE is some form of intelligent code completion, sometimes called [intellisense](https://en.wikipedia.org/wiki/Intelligent_code_completion).
- 
- An "Online IDE" has the features mentioned above but runs in a web browser instead of installing as a native application. An "Online IDE" can be made accessible in offline mode without an internet connection and still satisfy the above conditions.
+集成开发环境（[IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)）是一种软件应用程序，为计算机程序员的软件开发提供全面的设施。这通常包括一个文本编辑器、语法高亮、文件资源管理器、调试器、版本控制和构建/运行/部署选项。集成开发环境的另一个决定性特征是某种形式的智能代码补全，有时称为[智能提示](https://en.wikipedia.org/wiki/Intelligent_code_completion)。
 
-## Contents
+在线集成开发环境 "具有上述功能，但在网络浏览器中运行，而不是作为一个本地应用程序安装。在线集成开发环境 "可以在没有互联网连接的情况下以脱机模式访问，但仍能满足上述条件。
 
-### Jump to
+## 目录
+
+### 跳转到
 
 - [Full IDE](#full-ide)
 - [Snippets](#snippets)
 - [Web Snippets](#web-snippets)
 
-### Legend
+### 标注
 
 | Icon                                                                                                                | Meaning                                            |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -81,7 +81,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [.NET Fiddle](https://dotnetfiddle.net) - 用NuGet包运行C#、F#和VB.net片段。
 - [Scastie](https://scastie.scala-lang.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/scalacenter/scastie) - 运行Scala片段，支持选择不同的Scala版本，使用任何公共库，配置SBT设置，分享代码片段，将其嵌入你的网站，等等。
 
-### Web Snippets
+### Web 片段
 
 - [CodePen](https://codepen.io) - 在HTML/CSS/JS中运行片段，受到设计师的欢迎。
 - [JS Bin](https://jsbin.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/jsbin/jsbin) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/euprogramador/jsbin/) - 在HTML/CSS/JS/TS中运行片段，提供 [Codecasting](https://remysharp.com/2013/11/14/what-is-codecasting/).
